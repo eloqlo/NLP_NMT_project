@@ -1,0 +1,6 @@
+.git
+.idea
+jupyter
+__pycache__
+data
+*.ipynb
